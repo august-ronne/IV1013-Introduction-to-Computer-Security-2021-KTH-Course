@@ -1,0 +1,20 @@
+horatio:vpbB4Ir3Q.bfo:501:501:Horatio Jamison:/home/horatio:/bin/bash
+emmanuel:VjVrduD4Jqv22:502:502:Emmanuel Ravelli:/home/emmanuel:/bin/bash
+george:ClytvcJalUB6k:503:503:George Schmidlap:/home/george:/bin/bash
+geoffrey:f.AxCLYZfAHMg:504:504:Geoffrey T. Spaulding:/home/geoffrey:/bin/bash
+frank:QXwhOoEnhmIo.:505:505:Frank Wagstaff:/home/frank:/bin/bash
+quentin:nPVbcqcMUcRlU:506:506:S. Quentin Quale:/home/quentin:/bin/ksh
+sammy:zUEy9ZqvGeWVI:507:507:Sammy Brown:/home/sammy:/bin/zsh
+wolf:mZD4j3C3et20Y:508:508:Wolf J. Flywheel:/home/wolf:/bin/zsh
+sam:BICphgsyH6rZ.:509:509:Sam Grunion:/home/sam:/bin/bash
+joe:50YrW6OxdBpHg:510:510:Joe Panello:/home/joe:/bin/ksh
+gordon:k4GjqXqarVLjk:511:511:Gordon Miller:/home/gordon:/bin/bash
+antonio:IWF6B1mCCNNzg:512:512:Antonio Pirelli:/home/antonio:/bin/zsh
+quincy:TXVFvwkAYWWwo:513:513:Quincy Adams Wagstaff:/home/quincy:/bin/zsh
+suzanna:azwfKY0zonklM:514:514:Suzanna Dukesbury:/home/suzanna:/bin/csh
+faker:srVLzZ3AyxWno:515:515:Faker Englund:/home/faker:/bin/bash
+benjamin:lmJsrL8J97eDc:516:516:Benjamin Franklin Linn:/home/benjamin:/bin/bash
+rusty:mS6wZ.BOagog6:517:517:Rusty Panello:/home/rusty:/bin/bash
+ronald:Fv5..lCtFIz7Q:518:518:Ronald Kornblow:/home/ronald:/bin/bash
+hugo:k06goCnXls6ik:519:519:Hugo Z. Hackenbush:/home/hugo:/bin/zsh
+bob:aTNSpfwem2gg6:520:520:Bob Roland:/home/bob:/bin/bash
